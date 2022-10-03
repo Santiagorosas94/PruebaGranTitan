@@ -1,0 +1,12 @@
+C:\Users\Santiago\source\repos\PruebaGranTitan\PruebaGranTitan.Domain\bin\Release\net5.0\PruebaGranTitan.Domain.deps.json
+C:\Users\Santiago\source\repos\PruebaGranTitan\PruebaGranTitan.Domain\bin\Release\net5.0\PruebaGranTitan.Domain.dll
+C:\Users\Santiago\source\repos\PruebaGranTitan\PruebaGranTitan.Domain\bin\Release\net5.0\PruebaGranTitan.Domain.pdb
+C:\Users\Santiago\source\repos\PruebaGranTitan\PruebaGranTitan.Domain\obj\Release\net5.0\PruebaGranTitan.Domain.csproj.AssemblyReference.cache
+C:\Users\Santiago\source\repos\PruebaGranTitan\PruebaGranTitan.Domain\obj\Release\net5.0\PruebaGranTitan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\source\repos\PruebaGranTitan\PruebaGranTitan.Domain\obj\Release\net5.0\PruebaGranTitan.Domain.AssemblyInfoInputs.cache
+C:\Users\Santiago\source\repos\PruebaGranTitan\PruebaGranTitan.Domain\obj\Release\net5.0\PruebaGranTitan.Domain.AssemblyInfo.cs
+C:\Users\Santiago\source\repos\PruebaGranTitan\PruebaGranTitan.Domain\obj\Release\net5.0\PruebaGranTitan.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\PruebaGranTitan\PruebaGranTitan.Domain\obj\Release\net5.0\PruebaGranTitan.Domain.dll
+C:\Users\Santiago\source\repos\PruebaGranTitan\PruebaGranTitan.Domain\obj\Release\net5.0\refint\PruebaGranTitan.Domain.dll
+C:\Users\Santiago\source\repos\PruebaGranTitan\PruebaGranTitan.Domain\obj\Release\net5.0\PruebaGranTitan.Domain.pdb
+C:\Users\Santiago\source\repos\PruebaGranTitan\PruebaGranTitan.Domain\obj\Release\net5.0\ref\PruebaGranTitan.Domain.dll

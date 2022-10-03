@@ -1,0 +1,50 @@
+﻿SET IDENTITY_INSERT [dbo].[Color] ON 
+INSERT [dbo].[Color] ([Id], [Name]) VALUES (1, N'Negro')
+INSERT [dbo].[Color] ([Id], [Name]) VALUES (2, N'Rojo')
+SET IDENTITY_INSERT [dbo].[Color] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Number] ON 
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (0,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (1,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (2,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (3,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (4,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (5,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (6,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (7,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (8,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (9,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (10,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (11,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (12,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (13,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (14,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (15,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (16,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (17,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (18,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (19,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (20,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (21,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (22,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (23,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (24,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (25,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (26,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (27,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (28,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (29,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (30,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (31,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (32,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (33,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (34,2)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (35,1)
+INSERT [dbo].[Number] ([Id], [IdColor]) VALUES (36,2)
+SET IDENTITY_INSERT [dbo].[Number] OFF
+GO
+SET IDENTITY_INSERT [dbo].[State] ON 
+INSERT [dbo].[State] ([Id], [Name]) VALUES (1, N'Activo')
+INSERT [dbo].[State] ([Id], [Name]) VALUES (2, N'Inactivo')
+SET IDENTITY_INSERT [dbo].[State] OFF
+GO
